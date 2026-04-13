@@ -156,3 +156,5 @@ cython_debug/
 # Google Auth
 google_token.json
 google_client_secrets.json
+
+.gitignore
